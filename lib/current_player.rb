@@ -4,5 +4,6 @@ def turn_count(board)
     turn_count(X)
     turn_count(O)
     counter +=1
+  end
 end  
   
