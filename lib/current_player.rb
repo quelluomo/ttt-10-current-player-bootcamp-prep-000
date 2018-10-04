@@ -9,6 +9,6 @@ counter
 
 end
 
-def current_player
-  counter.even?
+def current_player(board)
+  if counter.odd?
 end
