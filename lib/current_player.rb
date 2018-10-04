@@ -6,5 +6,6 @@ def turn_count(board)
       counter +=1
       puts "O"
   end
+end
 end  
   
