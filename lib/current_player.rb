@@ -11,6 +11,6 @@ end
 
 def current_player(board)
   if counter.odd?
-    board == "O"
-  else board == "X"  
+    turn_count == "O"
+  else turn_count == "X"  
 end
